@@ -1,0 +1,16 @@
+# Batch and PowerShell scripts must keep Windows line endings (LF-only breaks goto labels);
+# shell scripts must keep Unix line endings.
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.sh  text eol=lf
+
+# Binary formats: never touch their bytes.
+*.pdf  binary
+*.xlsx binary
+*.docx binary
+*.zip  binary
+*.xls  binary
+*.jpg  binary
+
+# The sample documents must never be rewritten by line-ending conversion.
+sample_documents/** -text

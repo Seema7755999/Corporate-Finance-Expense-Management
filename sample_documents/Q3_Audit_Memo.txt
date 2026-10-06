@@ -1,0 +1,77 @@
+MEMORANDUM
+
+TO:      All Department Heads, Acme Corporation (Fictitious Company)
+FROM:    Office of Internal Audit & Finance
+DATE:    October 6, 2026
+RE:      Q3 2026 Expense Audit Findings and Reporting Reminders
+
+--------------------------------------------------------------------
+1. PURPOSE
+--------------------------------------------------------------------
+This memo summarizes the findings of the Q3 2026 internal expense
+audit and reiterates key expense-reporting rules ahead of Q4
+close.
+
+--------------------------------------------------------------------
+2. AUDIT SCOPE
+--------------------------------------------------------------------
+The Internal Audit team reviewed a sample of 250 expense claims
+submitted between July 1 and September 30, 2026, across the
+Sales, Engineering, Marketing, and Operations departments,
+covering travel, meals, software subscriptions, and client
+entertainment categories.
+
+--------------------------------------------------------------------
+3. KEY FINDINGS
+--------------------------------------------------------------------
+- 92% of claims were submitted with itemized receipts, in line
+  with policy (target: 95%).
+- 14 claims (5.6%) exceeded the daily meal per-diem limit of $75
+  without a documented exception approval.
+- 6 claims (2.4%) were submitted more than 45 days after the
+  expense date, exceeding the reimbursement window.
+- Corporate card reconciliations for the quarter were completed
+  on time by all departments except Marketing, which closed 4
+  business days late.
+
+--------------------------------------------------------------------
+4. EXPENSE POLICY REMINDERS
+--------------------------------------------------------------------
+- All claims over $25 require an itemized receipt (credit card
+  slips alone are not sufficient).
+- Claims must be submitted within 45 calendar days of the expense
+  date; late claims require VP-level approval.
+- Daily meal per-diem cap: $75 (domestic), $100 (international).
+  Exceptions require prior written approval from a department
+  head.
+- Client entertainment expenses must include attendee names,
+  company affiliation, and business purpose.
+- Personal expenses (entertainment, dry cleaning under 5-day
+  trips, gym fees) remain non-reimbursable.
+
+--------------------------------------------------------------------
+5. ACTION ITEMS
+--------------------------------------------------------------------
+- Department heads must review flagged claims and respond to
+  Internal Audit by October 20, 2026.
+- Marketing to confirm a corrective process for on-time card
+  reconciliation before Q4 close (December 31, 2026).
+- All staff are encouraged to complete the 15-minute "Expense
+  Policy Refresher" module in the Learning Portal by
+  November 1, 2026.
+
+--------------------------------------------------------------------
+6. CONTACT
+--------------------------------------------------------------------
+Questions regarding this memo or specific audit findings should be
+directed to:
+
+  Internal Audit: audit@acmecorp-example.com
+  Finance Helpdesk: finance-help@acmecorp-example.com
+
+--- END OF MEMO ---
+
+Note: This is a fictitious sample document containing no real
+company, employee, or financial data. Generated for software
+testing and RAG (Retrieval-Augmented Generation) system evaluation
+purposes only.
